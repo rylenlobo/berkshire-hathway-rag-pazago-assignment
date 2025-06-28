@@ -1,0 +1,586 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          204.6111581325531,
+          47.513730213046074
+        ],
+        [
+          388.76974725723267,
+          47.513730213046074
+        ],
+        [
+          388.76974725723267,
+          56.859093591570854
+        ],
+        [
+          204.6111581325531,
+          56.859093591570854
+        ]
+      ]
+    },
+    {
+      "title": "BERKSHIRE HATHAWAY INC.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          223.85000610351562,
+          133.59460374712944
+        ],
+        [
+          371.02684128284454,
+          133.59460374712944
+        ],
+        [
+          370.13201904296875,
+          144.085497289896
+        ],
+        [
+          223.22602236270905,
+          144.085497289896
+        ]
+      ]
+    },
+    {
+      "title": "What We Do",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.686283588409424,
+          474.3787536621094
+        ],
+        [
+          128.28349488973618,
+          474.3787536621094
+        ],
+        [
+          128.28349488973618,
+          486.3787536621094
+        ],
+        [
+          60.686283588409424,
+          486.3787536621094
+        ]
+      ]
+    },
+    {
+      "title": "The Secret Sauce",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.9677457511425,
+          530.8830871582031
+        ],
+        [
+          149.73712706565857,
+          530.8830871582031
+        ],
+        [
+          149.73712706565857,
+          542.8830871582031
+        ],
+        [
+          60.9677457511425,
+          542.8830871582031
+        ]
+      ]
+    },
+    {
+      "title": "The Past Year in Brief",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.692218378186226,
+          332.87835693359375
+        ],
+        [
+          178.9666172862053,
+          332.87835693359375
+        ],
+        [
+          178.9666172862053,
+          344.87835693359375
+        ],
+        [
+          60.692218378186226,
+          344.87835693359375
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          244.5,
+          180.9528220295906
+        ],
+        [
+          351.84156453609467,
+          180.9528220295906
+        ],
+        [
+          351.84156453609467,
+          194.82086181640625
+        ],
+        [
+          244.5,
+          194.82086181640625
+        ]
+      ]
+    },
+    {
+      "title": "58 Years \u2013 and a Few Figures",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.99511393904686,
+          324.61807322502136
+        ],
+        [
+          213.95075583457947,
+          324.61807322502136
+        ],
+        [
+          213.95075583457947,
+          336.8779602050781
+        ],
+        [
+          60.99511393904686,
+          336.8779602050781
+        ]
+      ]
+    },
+    {
+      "title": "Some Surprising Facts About Federal Taxes",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          61.5000114440918,
+          374.57830649614334
+        ],
+        [
+          289.9704827070236,
+          374.57830649614334
+        ],
+        [
+          288.8103264570236,
+          386.87957763671875
+        ],
+        [
+          60.78390446305275,
+          386.87957763671875
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          244.5004119873047,
+          323.1244390010834
+        ],
+        [
+          350.9658179283142,
+          323.1244390010834
+        ],
+        [
+          350.9658179283142,
+          336.82049560546875
+        ],
+        [
+          244.5004119873047,
+          336.82049560546875
+        ]
+      ]
+    },
+    {
+      "title": "Nothing Beats Having a Great Partner",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          60.653949826955795,
+          494.87835693359375
+        ],
+        [
+          259.21979212760925,
+          494.87835693359375
+        ],
+        [
+          259.21979212760925,
+          506.87835693359375
+        ],
+        [
+          60.653949826955795,
+          506.87835693359375
+        ]
+      ]
+    },
+    {
+      "title": "A Family Gathering in Omaha",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          61.43728896975517,
+          480.68790221214294
+        ],
+        [
+          222.08647191524506,
+          480.68790221214294
+        ],
+        [
+          220.92631566524506,
+          493.8679232597351
+        ],
+        [
+          60.27713271975517,
+          493.8679232597351
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          194
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2022"
+}

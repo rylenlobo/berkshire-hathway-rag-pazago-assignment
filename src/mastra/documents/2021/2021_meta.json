@@ -1,0 +1,659 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.21439224481583,
+          67.3906311839819
+        ],
+        [
+          384.18541646003723,
+          67.3906311839819
+        ],
+        [
+          384.18541646003723,
+          76.57979638874531
+        ],
+        [
+          206.21439224481583,
+          76.57979638874531
+        ]
+      ]
+    },
+    {
+      "title": "BERKSHIRE HATHAWAY INC.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          223.85000610351562,
+          122.58432215452194
+        ],
+        [
+          370.1340026855469,
+          122.58432215452194
+        ],
+        [
+          370.1340026855469,
+          132.89324951171875
+        ],
+        [
+          222.89147901535034,
+          132.89324951171875
+        ]
+      ]
+    },
+    {
+      "title": "What You Own",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.841891288757324,
+          398.9174258708954
+        ],
+        [
+          130.2100372314453,
+          398.9174258708954
+        ],
+        [
+          130.2100372314453,
+          409.293212890625
+        ],
+        [
+          62.841891288757324,
+          409.293212890625
+        ]
+      ]
+    },
+    {
+      "title": "Surprise, Surprise",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.27529367804527,
+          63.12786157429218
+        ],
+        [
+          142.58915296196938,
+          63.12786157429218
+        ],
+        [
+          142.58915296196938,
+          73.89324951171875
+        ],
+        [
+          62.27529367804527,
+          73.89324951171875
+        ]
+      ]
+    },
+    {
+      "title": "Our Four Giants",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.2389989644289,
+          504.21739304065704
+        ],
+        [
+          137.05937165021896,
+          504.21739304065704
+        ],
+        [
+          137.05937165021896,
+          515.3932189941406
+        ],
+        [
+          62.2389989644289,
+          515.3932189941406
+        ]
+      ]
+    },
+    {
+      "title": "Investments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          62.31170345842838,
+          63.868871569633484
+        ],
+        [
+          114.83197742700577,
+          63.868871569633484
+        ],
+        [
+          114.83197742700577,
+          73.89324951171875
+        ],
+        [
+          62.31170345842838,
+          73.89324951171875
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Treasury Bills",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.19431322813034,
+          63.44979612529278
+        ],
+        [
+          144.26086950302124,
+          63.44979612529278
+        ],
+        [
+          144.26086950302124,
+          73.89324951171875
+        ],
+        [
+          62.19431322813034,
+          73.89324951171875
+        ]
+      ]
+    },
+    {
+      "title": "But $144 billion?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          97.96264064311981,
+          190.08463114500046
+        ],
+        [
+          167.4779815673828,
+          190.08463114500046
+        ],
+        [
+          167.4779815673828,
+          200.64837646484375
+        ],
+        [
+          97.96264064311981,
+          200.64837646484375
+        ]
+      ]
+    },
+    {
+      "title": "Share Repurchases",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.948111191391945,
+          386.5931701660156
+        ],
+        [
+          145.4254513978958,
+          386.5931701660156
+        ],
+        [
+          144.93997192382812,
+          396.5931701660156
+        ],
+        [
+          61.787954941391945,
+          396.5931701660156
+        ]
+      ]
+    },
+    {
+      "title": "A Wonderful Man and a Wonderful Business",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.36484217643738,
+          317.293212890625
+        ],
+        [
+          256.3819885253906,
+          317.293212890625
+        ],
+        [
+          256.3819885253906,
+          327.293212890625
+        ],
+        [
+          62.36484217643738,
+          327.293212890625
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          253.25,
+          362.8530979156494
+        ],
+        [
+          345.26073682308197,
+          362.8530979156494
+        ],
+        [
+          344.10058057308197,
+          375.4483337402344
+        ],
+        [
+          253.25,
+          375.4483337402344
+        ]
+      ]
+    },
+    {
+      "title": "Thanks",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          62.87884542346001,
+          189.88046514987946
+        ],
+        [
+          95.30970552563667,
+          189.88046514987946
+        ],
+        [
+          95.30970552563667,
+          200.6932373046875
+        ],
+        [
+          62.87884542346001,
+          200.6932373046875
+        ]
+      ]
+    },
+    {
+      "title": "The Annual Meeting",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          62.1535574644804,
+          212.47857981920242
+        ],
+        [
+          152.75647902488708,
+          212.47857981920242
+        ],
+        [
+          152.75647902488708,
+          223.6932373046875
+        ],
+        [
+          62.1535574644804,
+          223.6932373046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          173
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "TableCell",
+          99
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2021"
+}

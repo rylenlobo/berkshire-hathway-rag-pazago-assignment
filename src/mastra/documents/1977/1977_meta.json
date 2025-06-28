@@ -1,0 +1,390 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BERKSHIRE HATHAWAY INC.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.5437863767147,
+          35.4215087890625
+        ],
+        [
+          384.4139709472656,
+          35.4215087890625
+        ],
+        [
+          384.4139709472656,
+          47.4215087890625
+        ],
+        [
+          211.5437863767147,
+          47.67201206833124
+        ]
+      ]
+    },
+    {
+      "title": "To the Stockholders of Berkshire Hathaway Inc.:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.114371836185455,
+          72.6651611328125
+        ],
+        [
+          287.8633728027344,
+          72.52373778820038
+        ],
+        [
+          287.8633728027344,
+          82.4151611328125
+        ],
+        [
+          34.114371836185455,
+          82.98788842558861
+        ]
+      ]
+    },
+    {
+      "title": "Textile Operations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.5,
+          668.9151306152344
+        ],
+        [
+          132.63375854492188,
+          668.9136379957199
+        ],
+        [
+          132.63375854492188,
+          678.6651306152344
+        ],
+        [
+          34.5,
+          679.244052529335
+        ]
+      ]
+    },
+    {
+      "title": "Insurance Underwriting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.5,
+          232.41522216796875
+        ],
+        [
+          154.04473876953125,
+          232.41522216796875
+        ],
+        [
+          154.04473876953125,
+          242.16522216796875
+        ],
+        [
+          33.46982192248106,
+          242.88509023189545
+        ]
+      ]
+    },
+    {
+      "title": "Insurance Investments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.9140934497118,
+          198.66522216796875
+        ],
+        [
+          148.69198608398438,
+          198.66522216796875
+        ],
+        [
+          148.69198608398438,
+          208.41522216796875
+        ],
+        [
+          33.9140934497118,
+          208.41522216796875
+        ]
+      ]
+    },
+    {
+      "title": "Banking",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.374825060367584,
+          693.6651916503906
+        ],
+        [
+          73.75350189208984,
+          692.9994362592697
+        ],
+        [
+          73.75350189208984,
+          703.4151916503906
+        ],
+        [
+          34.374825060367584,
+          703.4151916503906
+        ]
+      ]
+    },
+    {
+      "title": "Blue Chip Stamps",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.29521553218365,
+          187.41522216796875
+        ],
+        [
+          121.92826080322266,
+          187.41522216796875
+        ],
+        [
+          121.92826080322266,
+          197.16522216796875
+        ],
+        [
+          33.13310615718365,
+          197.80882140994072
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\1977"
+}

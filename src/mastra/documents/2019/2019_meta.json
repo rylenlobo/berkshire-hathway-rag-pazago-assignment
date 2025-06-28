@@ -1,0 +1,795 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          216.73020458221436,
+          41.02035230398178
+        ],
+        [
+          396.2072811126709,
+          41.02035230398178
+        ],
+        [
+          396.2072811126709,
+          50.55636602640152
+        ],
+        [
+          216.73020458221436,
+          50.55636602640152
+        ]
+      ]
+    },
+    {
+      "title": "BERKSHIRE HATHAWAY INC.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          232.51438128948212,
+          142.87823486328125
+        ],
+        [
+          380.1104693412781,
+          142.87823486328125
+        ],
+        [
+          379.13201904296875,
+          152.87823486328125
+        ],
+        [
+          231.31906878948212,
+          152.87823486328125
+        ]
+      ]
+    },
+    {
+      "title": "The Power of Retained Earnings",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.35979729890823,
+          616.0170993804932
+        ],
+        [
+          206.2819082736969,
+          616.0170993804932
+        ],
+        [
+          206.2819082736969,
+          626.3782501220703
+        ],
+        [
+          65.35979729890823,
+          626.3782501220703
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          262.25,
+          396.1862783432007
+        ],
+        [
+          351.4939556121826,
+          396.1862783432007
+        ],
+        [
+          351.4939556121826,
+          407.8333435058594
+        ],
+        [
+          262.25,
+          407.8333435058594
+        ]
+      ]
+    },
+    {
+      "title": "Non-Insurance Operations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.27116021513939,
+          72.87224954366684
+        ],
+        [
+          180.52465295791626,
+          72.87224954366684
+        ],
+        [
+          180.52465295791626,
+          82.87823486328125
+        ],
+        [
+          65.27116021513939,
+          82.87823486328125
+        ]
+      ]
+    },
+    {
+      "title": "Property/Casualty Insurance",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          65.57506790757179,
+          334.87823486328125
+        ],
+        [
+          191.2096552848816,
+          334.87823486328125
+        ],
+        [
+          191.2096552848816,
+          344.87823486328125
+        ],
+        [
+          65.57506790757179,
+          344.87823486328125
+        ]
+      ]
+    },
+    {
+      "title": "** **********",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          260.5424312353134,
+          558.4253211021423
+        ],
+        [
+          352.3487091064453,
+          558.4253211021423
+        ],
+        [
+          352.3487091064453,
+          570.3334197998047
+        ],
+        [
+          260.5424312353134,
+          570.3334197998047
+        ]
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway Energy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          65.84648734331131,
+          211.92003393173218
+        ],
+        [
+          188.8925335407257,
+          211.92003393173218
+        ],
+        [
+          188.8925335407257,
+          222.37823486328125
+        ],
+        [
+          65.84648734331131,
+          222.37823486328125
+        ]
+      ]
+    },
+    {
+      "title": "Investments",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          65.28332108259201,
+          72.71657305955887
+        ],
+        [
+          117.66000366210938,
+          72.71657305955887
+        ],
+        [
+          117.66000366210938,
+          82.87823486328125
+        ],
+        [
+          65.28332108259201,
+          82.87823486328125
+        ]
+      ]
+    },
+    {
+      "title": "The Road Ahead",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          65.77680060267448,
+          235.214763879776
+        ],
+        [
+          138.1800079345703,
+          235.214763879776
+        ],
+        [
+          138.1800079345703,
+          245.37823486328125
+        ],
+        [
+          65.77680060267448,
+          245.37823486328125
+        ]
+      ]
+    },
+    {
+      "title": "Boards of Directors",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          66.0,
+          180.90643644332886
+        ],
+        [
+          150.96045792102814,
+          180.90643644332886
+        ],
+        [
+          149.8800048828125,
+          191.5782470703125
+        ],
+        [
+          64.91766062378883,
+          191.5782470703125
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          262.2499694824219,
+          489.4411540031433
+        ],
+        [
+          352.8410897254944,
+          487.8942790031433
+        ],
+        [
+          352.8410897254944,
+          499.8333740234375
+        ],
+        [
+          262.2499694824219,
+          499.8333740234375
+        ]
+      ]
+    },
+    {
+      "title": "Short Subjects",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          65.17874765396118,
+          107.2923012971878
+        ],
+        [
+          129.06321787834167,
+          107.2923012971878
+        ],
+        [
+          129.06321787834167,
+          117.87823486328125
+        ],
+        [
+          65.17874765396118,
+          117.87823486328125
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          262.25,
+          450.0040555000305
+        ],
+        [
+          351.83911085128784,
+          448.4571805000305
+        ],
+        [
+          351.83911085128784,
+          460.8333740234375
+        ],
+        [
+          262.25,
+          460.8333740234375
+        ]
+      ]
+    },
+    {
+      "title": "************",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          262.25,
+          607.5682954788208
+        ],
+        [
+          351.3399453163147,
+          606.0214204788208
+        ],
+        [
+          351.3399453163147,
+          617.8333740234375
+        ],
+        [
+          262.25,
+          617.8333740234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          176
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "TableCell",
+          97
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2019"
+}
